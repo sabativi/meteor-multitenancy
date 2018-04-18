@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'cinn:multitenancy',
-  version: '0.0.7',
+  name: 'sabativi:multitenancy',
+  version: '0.0.8',
   summary: 'Multi tenancy for meteor apps',
-  git: 'https://github.com/cinn-labs/meteor-multitenancy',
+  git: 'https://github.com/sabativi/meteor-multitenancy',
   documentation: 'README.md'
 });
 
